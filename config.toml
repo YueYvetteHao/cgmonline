@@ -16,7 +16,7 @@ publishDir = "docs"
   extensionsmask = ["noIntraEmphasis"]
   
 # prevent hugo from creating folders/indexes for each section
-disableKinds = ["section"]
+# disableKinds = ["section"]
 
 # adding taxonomy term 'archive'
 [taxonomies]
